@@ -80,7 +80,7 @@ int main() {
         printf("Super Poder da Cidade 1: %.2f\n", SuperPoder);
         printf("Super Poder da Cidade 2: %.2f\n", SuperPoder2);
     } else {
-        printf("\nVocê escolheu não ver o Super Poder.\n");
+        printf("\nVocê escolheu não ver Super Poder.\n");
     }
 
     if (SuperPoder >= SuperPoder2) {
